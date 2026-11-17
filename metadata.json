@@ -1,0 +1,6 @@
+{
+  "name": "SmartConnect",
+  "description": "Modern real-time encrypted messaging, WebRTC voice and video calling, status updates, communities, and administration platform.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
